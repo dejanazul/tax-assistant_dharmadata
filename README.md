@@ -7,7 +7,6 @@
 - [Fitur Utama](#fitur-utama)
 - [Arsitektur Sistem](#arsitektur-sistem)
 - [Alur Kerja](#alur-kerja)
-- [Struktur Proyek](#struktur-proyek)
 - [Instalasi & Persiapan Lingkungan](#instalasi--persiapan-lingkungan)
 - [Cara Menjalankan](#cara-menjalankan)
 
