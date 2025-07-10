@@ -10,7 +10,6 @@
 - [Struktur Proyek](#struktur-proyek)
 - [Instalasi & Persiapan Lingkungan](#instalasi--persiapan-lingkungan)
 - [Cara Menjalankan](#cara-menjalankan)
-- [Catatan Penting](#catatan-penting)
 
 ## Fitur Utama
 
